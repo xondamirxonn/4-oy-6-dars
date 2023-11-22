@@ -1,0 +1,27 @@
+#qizil{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: gray;
+}
+
+#sariq{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: gray;
+}
+
+#yashil{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: gray;
+}
+
+.cards{
+ display: flex;
+ gap: 2rem  ;
+ flex-direction: column;
+ margin: 60px 600px;
+}
